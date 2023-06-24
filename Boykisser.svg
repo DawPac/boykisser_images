@@ -2,14 +2,17 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="1024pt"
+   height="1024pt"
+   viewBox="0 0 361.24444 361.24444"
    version="1.1"
    id="svg1255"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Boykisser.svg"
+   inkscape:export-filename="Boykisser.png"
+   inkscape:export-xdpi="479.68625"
+   inkscape:export-ydpi="479.68625"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.6557772"
-     inkscape:cx="289.55742"
-     inkscape:cy="612.25014"
+     inkscape:zoom="0.33197215"
+     inkscape:cx="936.82557"
+     inkscape:cy="611.49707"
      inkscape:window-width="1366"
      inkscape:window-height="699"
      inkscape:window-x="0"
@@ -37,7 +40,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"><g
-       id="g16012"><g
+       id="g16012"
+       transform="matrix(5.8669036,0,0,5.8669036,-287.09417,-761.92483)"><g
          id="g15373"
          style="fill:none"><path
            style="fill:none;stroke:#000000;stroke-width:0.564999;stroke-dasharray:none"
